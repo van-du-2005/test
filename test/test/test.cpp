@@ -5,7 +5,7 @@
 
 int main()
 {
-    
+    std::cout<<"abc";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
